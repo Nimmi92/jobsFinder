@@ -1,0 +1,30 @@
+{
+  "name": "jobsfinder",
+  "version": "1.0.0",
+  "description": "Node.js REST API to find jobs, React.js UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimmi92/jobsFinder.git"
+  },
+  "keywords": [
+    "Node.js",
+    "React"
+  ],
+  "author": "Nirmaladevi Boopathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimmi92/jobsFinder/issues"
+  },
+  "homepage": "https://github.com/Nimmi92/jobsFinder#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
